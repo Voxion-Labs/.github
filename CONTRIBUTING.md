@@ -1,14 +1,27 @@
-# Voxion Labs Contribution Protocols
+# Voxion Labs Operational & Contribution Protocols
 
-Welcome to Voxion Labs. We build high-performance backend architectures, experimental AI systems, and sandboxed execution environments. 
+Voxion Labs operates under strict performance and determinism protocols. We do not accept arbitrary feature requests, superficial UI changes, or unoptimized logic. This repository is maintained for high-performance architectural research.
 
-If you want to contribute, you must follow the laws of our ecosystem. We value architectural brilliance over trivial changes.
+If you intend to submit a Pull Request, you must adhere strictly to the following institutional directives.
 
-## 📜 The Core Directives
+## 1. Architectural Standards
+All code submitted to Voxion Labs must meet our baseline performance metrics:
+* **Zero-Latency Execution:** Submissions affecting the main thread will be instantly rejected. C++/WebAssembly kernels must maintain 0.000ms thread blocking.
+* **Deterministic Memory:** Memory leaks, uncontrolled garbage collection (GC) pressure, and transient object allocations are strictly prohibited. Prove your memory footprint via telemetry logs before submission.
+* **Algorithmic Efficiency:** Do not rely on bloated external dependencies. We engineer from first principles. If an O(N log N) operation can be reduced to O(N) using vector states or linear memory, do it.
 
-* **1. No Typo Fixes:** Do NOT open a PR just to fix a missing comma or a spelling mistake in the README. We are engineering systems here, not preparing for a spelling bee. Bring actual technical value. 🧠
-* **2. Architectural Supremacy:** Before you touch the core logic (like the I/O pipelines in VoidLAB or task execution in FluxKernel), open an Issue. If you mess with the execution pipelines without discussing your blueprint first, your PR gets closed instantly. No exceptions.
-* **3. Respect the Shadows:** Keep your commit messages clean, concise, and logical. Format: `[Component] Action - Reason`. No vague messages like "fixed bug" or "updated code". 
-* **4. Testing is Mandatory:** If your code breaks our systems, it doesn't get merged. Ensure your logic handles edge cases before requesting a review.
+## 2. Pull Request (PR) Governance
+Before initiating a merge request, ensure your PR adheres to this exact structure:
+1. **[METRIC] Benchmark Data:** You must provide before/after execution telemetry (e.g., sync latency, payload size, vector drift).
+2. **[LOGIC] State Transition:** Explicitly document the deterministic state transitions your code alters.
+3. **[ISOLATION] Threat Model:** For cyber-defense and AI sandbox kernels, prove that no local ingress data is exposed externally.
 
-*Violators of these protocols will have their PRs sent straight to the void.* 
+*Note: PRs failing to provide empirical benchmark data will be closed immediately without review.*
+
+## 3. Vulnerability Disclosure
+**DO NOT** open public issues for zero-day exploits, prompt-injection bypasses, or critical architectural vulnerabilities. Public disclosure of critical threats compromises the integrity of the lab. 
+* All security reports must be routed internally.
+* Contact the Lead Researcher directly for secure transmission protocols.
+
+## 4. Code of Conduct
+We evaluate code, not intentions. Your submissions will be scrutinized ruthlessly based on mathematical and algorithmic efficiency. Keep discussions clinical, objective, and exclusively focused on system architecture.

@@ -32,7 +32,7 @@ By operating at the intersection of WebAssembly kernels, vector state synchroniz
 <table>
   <tr>
     <td width="48%" valign="top">
-      <img src="assets/aegis_ir_preview.png" alt="Aegis-IR Preview" width="100%" />
+      <img src="../assets/aegis_ir_preview.png" alt="Aegis-IR Preview" width="100%" />
     </td>
     <td width="4%"></td>
     <td width="48%" valign="top">
@@ -46,7 +46,7 @@ By operating at the intersection of WebAssembly kernels, vector state synchroniz
   <tr><td colspan="3"><br/></td></tr>
   <tr>
     <td width="48%" valign="top">
-      <img src="assets/vxr_continuum_preview.png" alt="VXR-Continuum Preview" width="100%" />
+      <img src="../assets/vxr_continuum_preview.png" alt="VXR-Continuum Preview" width="100%" />
     </td>
     <td width="4%"></td>
     <td width="48%" valign="top">
@@ -60,7 +60,7 @@ By operating at the intersection of WebAssembly kernels, vector state synchroniz
   <tr><td colspan="3"><br/></td></tr>
   <tr>
     <td width="48%" valign="top">
-      <img src="assets/vxr_sandbox_preview.png" alt="VXR-Sandbox Preview" width="100%" />
+      <img src="../assets/vxr_sandbox_preview.png" alt="VXR-Sandbox Preview" width="100%" />
     </td>
     <td width="4%"></td>
     <td width="48%" valign="top">
@@ -100,7 +100,7 @@ By operating at the intersection of WebAssembly kernels, vector state synchroniz
 
 ---
 
-## Applied Systems & Ecosystem
+## Systems & Ecosystem
 
 > *Production-grade environments and autonomous systems developed and maintained under Voxion Labs.*
 
@@ -250,6 +250,14 @@ By operating at the intersection of WebAssembly kernels, vector state synchroniz
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0000,100:660000&height=5&section=header" width="100%" />
+
+---
+
+## Operational Protocols & Governance
+
+* **Licensing & Architecture:** Foundational systems and non-classified VXR kernels are maintained under our custom institutional license. Refer to the [Voxion Labs Proprietary Research License (VL-PRL)](../LICENSE) for strict operational parameters.
+* **External Collaboration:** Voxion Labs enforces ruthless pull-request auditing. Independent developers must strictly adhere to our [Contribution Directives & Architectural Standards](../CONTRIBUTING.md) before initiating merge requests.
+* **Security & Vulnerability Disclosure:** For zero-day reports, prompt-injection bypasses, or critical vulnerabilities within VXR sandboxes, do not open public issues. Follow internal security disclosure protocols.
 
 ---
 
