@@ -16,22 +16,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:660000,100:0b0000&height=5&section=header" width="100%" />
 
----
 
 ## Overview
 
-Voxion Labs is a research entity operating at the convergence of high-performance backend infrastructures and sandboxed execution environments. The primary objective is the development of stateful architectures where software operations and machine intelligence models function under strict isolation protocols.
+Voxion Labs operates as an independent research and development facility strictly focused on the convergence of high-performance systems engineering and artificial intelligence. The organization is dedicated to eliminating cloud dependency bottlenecks by engineering deterministic architectures, zero-backend edge networks, and local-first AI sandboxes. 
+
+By operating at the intersection of WebAssembly kernels, vector state synchronization, and low-latency C/C++ backplanes, Voxion Labs transitions theoretical computer science into production-grade, stateful infrastructures where software operations and machine intelligence models function under strict isolation protocols.
 
 ---
 
 ## Voxion eXperimental Research (VXR)
 
-Active research divisions focusing on browser-native, zero-backend, and deterministic memory isolation architectures.
+> *Active research divisions focusing on browser-native, zero-backend, and deterministic memory isolation architectures.*
 
 <table>
   <tr>
     <td width="48%" valign="top">
-      <img src="assets/aegis_ir_preview.jpg" alt="Aegis-IR Preview" width="100%" />
+      <img src="assets/aegis_ir_preview.png" alt="Aegis-IR Preview" width="100%" />
     </td>
     <td width="4%"></td>
     <td width="48%" valign="top">
@@ -76,98 +77,175 @@ Active research divisions focusing on browser-native, zero-backend, and determin
 
 ---
 
-## Systems & Ecosystem
+## Technical Infrastructure
 
-Production-grade environments and autonomous systems developed and maintained under Voxion Labs.
+<table align="center">
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=py" width="48" /><br/><sub><b>Python</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" width="48" /><br/><sub><b>C++</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="48" /><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="48" /><br/><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="48" /><br/><sub><b>React</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="48" /><br/><sub><b>Next.js</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br/><sub><b>Node.js</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="48" /><br/><sub><b>Docker</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br/><sub><b>TensorFlow</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="48" /><br/><sub><b>Git</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgresql" width="48" /><br/><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=wasm" width="48" /><br/><sub><b>WebAssembly</b></sub></td>
+  </tr>
+</table>
+
+---
+
+## Applied Systems & Ecosystem
+
+> *Production-grade environments and autonomous systems developed and maintained under Voxion Labs.*
 
 ### [VoidLAB](https://github.com/Voxion-Labs/VoidLAB)
+
 <table>
   <tr>
-    <td valign="top" width="25%">
-    <b>Type:</b> Cloud IDE<br/>
-    <b>Stack:</b> React, Next.js, Web Workers
-    </td>
-    <td valign="top" width="75%">
-    Sandbox-isolated browser IDE for cross-platform workflows. Integrates a multi-tab workspace, file explorer, background compile threads, and multi-language execution capabilities.
-    </td>
+    <td valign="top" width="38%">
+
+| Field | Details |
+| :--- | :--- |
+| **Type** | Cloud IDE |
+| **Status** | Active |
+| **Stack** | React, Next.js, Docker, wasm |
+
+  </td>
+  <td valign="top" width="62%">
+  A zero-latency, sandbox-isolated browser IDE for seamless cross-platform developer workflows. Features a multi-tab workspace, responsive file explorer, background compile threads via web workers, and multi-language execution capabilities.
+  </td>
   </tr>
 </table>
+
+---
 
 ### [FluxKernel](https://github.com/Voxion-Labs/FluxKernel)
+
 <table>
   <tr>
-    <td valign="top" width="25%">
-    <b>Type:</b> AI Agent Kernel<br/>
-    <b>Stack:</b> Python, LangChain, Vector DB
-    </td>
-    <td valign="top" width="75%">
-    Memory-driven AI agent operating on local filesystems. Routes tasks between cloud LLMs and local models via self-correcting git-diff patches and semantic vector memory backplanes.
-    </td>
+    <td valign="top" width="38%">
+
+| Field | Details |
+| :--- | :--- |
+| **Type** | AI Agent Kernel |
+| **Status** | Active |
+| **Stack** | Python, LangChain, Vector DB |
+
+  </td>
+  <td valign="top" width="62%">
+  A persistent, memory-driven AI agent that operates directly on local filesystems. Routes tasks between cloud LLMs and local models using self-correcting git-diff patches, maintaining context continuity via a semantic vector memory backplane.
+  </td>
   </tr>
 </table>
+
+---
 
 ### [RedTerminal](https://github.com/Voxion-Labs/RedTerminal)
+
 <table>
   <tr>
-    <td valign="top" width="25%">
-    <b>Type:</b> Systems Simulator<br/>
-    <b>Stack:</b> C11, POSIX Threads, Vanilla JS
-    </td>
-    <td valign="top" width="75%">
-    C-based POSIX-thread systems simulator managing process lifecycles and CPU scheduling. Incorporates thread-safe async logging and a browser terminal emulator UI.
-    </td>
+    <td valign="top" width="38%">
+
+| Field | Details |
+| :--- | :--- |
+| **Type** | Systems Simulator |
+| **Status** | Active |
+| **Stack** | C11, POSIX Threads, Vanilla JS |
+
+  </td>
+  <td valign="top" width="62%">
+  A lightweight systems-level C project demonstrating OS fundamentals: process lifecycle management, CPU scheduling via POSIX threads, thread-safe async logging, and a glassmorphism browser terminal emulator UI operating with zero external dependencies.
+  </td>
   </tr>
 </table>
 
-### [LEXIO](https://github.com/Voxion-Labs/LEXIO)
-<table>
-  <tr>
-    <td valign="top" width="25%">
-    <b>Type:</b> TTS Web Engine<br/>
-    <b>Stack:</b> JavaScript, Web Speech API
-    </td>
-    <td valign="top" width="75%">
-    Real-time Text-To-Speech engine executing dynamic voice modulation and latency-optimized segment parsing for multi-format document audio streaming.
-    </td>
-  </tr>
-</table>
+---
 
 ### [HorizonSync](https://github.com/Voxion-Labs/HorizonSync)
+
 <table>
   <tr>
-    <td valign="top" width="25%">
-    <b>Type:</b> Collaborative App<br/>
-    <b>Stack:</b> TypeScript, Next.js, Socket.io
-    </td>
-    <td valign="top" width="75%">
-    Multi-user workspace executing real-time state streaming. Utilizes optimized diff payloads and WebSocket frames to maintain synchronization latency below 15ms.
-    </td>
+    <td valign="top" width="38%">
+
+| Field | Details |
+| :--- | :--- |
+| **Type** | Collaboration Platform |
+| **Status** | Active |
+| **Stack** | TypeScript, Next.js, Socket.io |
+
+  </td>
+  <td valign="top" width="62%">
+  A high-performance multi-user workspace with real-time state streaming, shared file trees, and concurrent terminal feeds. Optimized diff payloads and WebSocket frames keep synchronization latency strictly under 15ms across all live sessions.
+  </td>
   </tr>
 </table>
+
+---
+
+### [LEXIO](https://github.com/Voxion-Labs/LEXIO)
+
+<table>
+  <tr>
+    <td valign="top" width="38%">
+
+| Field | Details |
+| :--- | :--- |
+| **Type** | TTS Web Engine |
+| **Status** | Active |
+| **Stack** | JavaScript, Web Speech API |
+
+  </td>
+  <td valign="top" width="62%">
+  A real-time Text-To-Speech engine executing dynamic voice modulation, regional accent selection, and real-time sentence highlighting. Handles multi-format documents with low-latency segment parsing for seamless audio streaming.
+  </td>
+  </tr>
+</table>
+
+---
 
 ### [Empty_Pointer](https://github.com/Voxion-Labs/Empty_Pointer)
+
 <table>
   <tr>
-    <td valign="top" width="25%">
-    <b>Type:</b> Native Wasm Game<br/>
-    <b>Stack:</b> C++, Raylib, WebAssembly
-    </td>
-    <td valign="top" width="75%">
-    Grid-based action-survival executable built natively in C++. Compiled directly to WebAssembly for zero-install, browser-native execution.
-    </td>
+    <td valign="top" width="38%">
+
+| Field | Details |
+| :--- | :--- |
+| **Type** | Native Wasm Game |
+| **Status** | Active |
+| **Stack** | C++, Raylib, WebAssembly |
+
+  </td>
+  <td valign="top" width="62%">
+  A grid-based action-survival executable built natively in C++ with the Raylib framework. Navigate system grids to evade Red-Code algorithms. Compiled directly to WebAssembly for zero-install, browser-native execution.
+  </td>
   </tr>
 </table>
 
+---
+
 ### [SkillNODE](https://github.com/Voxion-Labs/SkillNODE)
+
 <table>
   <tr>
-    <td valign="top" width="25%">
-    <b>Type:</b> Skill-Dev Platform<br/>
-    <b>Stack:</b> Node.js, React, MongoDB
-    </td>
-    <td valign="top" width="75%">
-    Multi-page interactive platform running live coding rooms and AI-guided study tracks. Implements real-time multiplayer arenas for algorithm challenge resolution.
-    </td>
+    <td valign="top" width="38%">
+
+| Field | Details |
+| :--- | :--- |
+| **Type** | Skill-Dev Platform |
+| **Status** | Active |
+| **Stack** | Node.js, React, MongoDB |
+
+  </td>
+  <td valign="top" width="62%">
+  A multi-page interactive platform running live coding rooms and AI-guided study tracks. Implements real-time multiplayer arenas where developers resolve complex algorithm challenges within shared collaborative environments.
+  </td>
   </tr>
 </table>
 
@@ -175,16 +253,26 @@ Production-grade environments and autonomous systems developed and maintained un
 
 ---
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <i>Infrastructure maintained by</i><br>
-      <b><a href="https://github.com/liambrooks-lab">Rudranarayan Jena</a></b><br>
-      <sub>Voxion Labs</sub>
-    </td>
-  </tr>
-</table>
+## Vision & Future Projections
+
+**Vision Directive**
+The computing paradigm is shifting from passive applications to autonomous, self-correcting systems. Voxion Labs envisions an infrastructure where operating environments and AI models co-evolve directly on edge devices—eliminating centralized compute latency and enforcing strict data determinism.
+
+**Strategic Projections**
+* **Phase I (Current):** Establishing deterministic sandboxes and WebAssembly-based execution kernels for secure, local AI orchestration.
+* **Phase II:** Deployment of distributed, zero-backend state synchronization networks capable of maintaining continuous multi-agent memory across P2P nodes.
+* **Phase III:** Architectural transition to stateful, memory-driven AI Operating Systems functioning entirely on client-side computational power.
+
+---
+
+<br/>
+<p align="center">
+  <i>Architecture & Infrastructure maintained by</i><br>
+  <b><a href="https://github.com/liambrooks-lab">Rudranarayan Jena</a></b><br>
+  <sub>Founder of Voxion Labs</sub>
+</p>
+<br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:660000,50:330000,100:0b0000&height=120&section=footer&text=System%20Architecture%20%26%20Research&fontSize=22&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:660000,50:330000,100:0b0000&height=120&section=footer&text=Engineering%20Intelligent%20Systems&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 </p>
