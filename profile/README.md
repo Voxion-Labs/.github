@@ -16,7 +16,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:660000,100:0b0000&height=5&section=header" width="100%" />
 
-
 ## Overview
 
 Voxion Labs operates as an independent research and development facility strictly focused on the convergence of high-performance systems engineering and artificial intelligence. The organization is dedicated to eliminating cloud dependency bottlenecks by engineering deterministic architectures, zero-backend edge networks, and local-first AI sandboxes. 
@@ -32,7 +31,7 @@ By operating at the intersection of WebAssembly kernels, vector state synchroniz
 <table>
   <tr>
     <td width="48%" valign="top">
-      <img src="../assets/aegis_ir_preview.png" alt="Aegis-IR Preview" width="100%" />
+      <img src="https://github.com/Voxion-Labs/.github/raw/main/assets/aegis_ir_preview.png" alt="Aegis-IR Preview" width="100%" />
     </td>
     <td width="4%"></td>
     <td width="48%" valign="top">
@@ -46,7 +45,7 @@ By operating at the intersection of WebAssembly kernels, vector state synchroniz
   <tr><td colspan="3"><br/></td></tr>
   <tr>
     <td width="48%" valign="top">
-      <img src="../assets/vxr_continuum_preview.png" alt="VXR-Continuum Preview" width="100%" />
+      <img src="https://github.com/Voxion-Labs/.github/raw/main/assets/vxr_continuum_preview.png" alt="VXR-Continuum Preview" width="100%" />
     </td>
     <td width="4%"></td>
     <td width="48%" valign="top">
@@ -60,7 +59,7 @@ By operating at the intersection of WebAssembly kernels, vector state synchroniz
   <tr><td colspan="3"><br/></td></tr>
   <tr>
     <td width="48%" valign="top">
-      <img src="../assets/vxr_sandbox_preview.png" alt="VXR-Sandbox Preview" width="100%" />
+      <img src="https://github.com/Voxion-Labs/.github/raw/main/assets/vxr_sandbox_preview.png" alt="VXR-Sandbox Preview" width="100%" />
     </td>
     <td width="4%"></td>
     <td width="48%" valign="top">
@@ -255,8 +254,8 @@ By operating at the intersection of WebAssembly kernels, vector state synchroniz
 
 ## Operational Protocols & Governance
 
-* **Licensing & Architecture:** Foundational systems and non-classified VXR kernels are maintained under our custom institutional license. Refer to the [Voxion Labs Proprietary Research License (VL-PRL)](../LICENSE) for strict operational parameters.
-* **External Collaboration:** Voxion Labs enforces ruthless pull-request auditing. Independent developers must strictly adhere to our [Contribution Directives & Architectural Standards](../CONTRIBUTING.md) before initiating merge requests.
+* **Licensing & Architecture:** Foundational systems and non-classified VXR kernels are maintained under our custom institutional license. Refer to the [Voxion Labs Proprietary Research License (VL-PRL)](https://github.com/Voxion-Labs/.github/blob/main/LICENSE) for strict operational parameters.
+* **External Collaboration:** Voxion Labs enforces ruthless pull-request auditing. Independent developers must strictly adhere to our [Contribution Directives & Architectural Standards](https://github.com/Voxion-Labs/.github/blob/main/CONTRIBUTING.md) before initiating merge requests.
 * **Security & Vulnerability Disclosure:** For zero-day reports, prompt-injection bypasses, or critical vulnerabilities within VXR sandboxes, do not open public issues. Follow internal security disclosure protocols.
 
 ---

@@ -22,5 +22,15 @@ A Pull Request (PR) to any Voxion Labs repository is a request to alter propriet
 * All Level-1 security anomalies must be routed internally.
 * Contact the Lead Architect immediately for secure transmission protocols and encrypted payload delivery.
 
+<<<<<<< HEAD
 ## 4. Immutable Code of Conduct
 Voxion Labs evaluates pure architectural output, not intentions. Submissions will be scrutinized ruthlessly based on optimization, isolation, and efficiency. Keep all communications clinical, objective, and strictly focused on algorithmic execution. Ad-hominem debates, superficial UI arguments, and non-technical discourse will not be tolerated.
+=======
+## 3. Vulnerability Disclosure
+**DO NOT** open public issues for zero-day exploits, prompt-injection bypasses, or critical architectural vulnerabilities. Public disclosure of critical threats compromises the integrity of the lab. 
+* All security reports must be routed internally.
+* Contact the Lead Researcher directly for secure transmission protocols.
+
+## 4. Code of Conduct
+We evaluate code, not intentions. Your submissions will be scrutinized ruthlessly based on mathematical and algorithmic efficiency. Keep discussions clinical, objective, and exclusively focused on system architecture.
+>>>>>>> e879a73499ad7ef3dd4922cc486eba9da99d85d1
