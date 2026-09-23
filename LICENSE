@@ -1,28 +1,31 @@
-VOXION LABS PROPRIETARY RESEARCH LICENSE (VL-PRL)
-Version 1.0, September 2026
+VOXION LABS MASTER PROPRIETARY RESEARCH LICENSE (VL-MPRL)
+Version 2.0, September 2026
 
 Copyright (c) 2026 Voxion Labs & Rudranarayan Jena. All rights reserved.
 
-1. PREAMBLE
-The software, architectures, and kernels provided within this repository are the exclusive proprietary intellectual property of Voxion Labs. This codebase is made publicly visible strictly for academic peer-review, security auditing, and localized architectural study. 
+1. PREAMBLE & JURISDICTION
+This Master License governs the overarching software, architectures, AI kernels, and UI/UX ecosystems deployed across all repositories managed by Voxion Labs. The underlying codebases are the exclusive, proprietary intellectual property of Voxion Labs. Transparency of source code is provided strictly for academic peer-review, deterministic security auditing, and localized architectural study. Transparency does not equate to open-source permissibility.
 
-2. PERMITTED USE
-You are granted a non-exclusive, non-transferable, revocable permission to:
-a) Clone, download, and compile the source code for personal, local execution.
-b) Review and analyze the architecture for academic and research purposes.
-c) Submit pull requests for bug fixes or optimizations, subject to the strict governance outlined in CONTRIBUTING.md.
+2. GRANT OF RESTRICTED ACCESS
+You are granted a conditional, non-exclusive, non-transferable, and highly revocable permission to:
+a) Clone and compile the source code exclusively for personal, localized, and offline execution.
+b) Review and mathematically analyze the architectures, CRDT implementations, and WebAssembly kernels for academic research.
+c) Submit proposed architectural optimizations via Pull Requests, subject entirely to the strict governance protocols defined in the Global CONTRIBUTING.md directives.
 
-3. RESTRICTIONS
-Under no circumstances are you permitted to:
-a) Use this software, or any modified version thereof, for commercial, enterprise, or profit-generating purposes.
-b) Deploy this software as a hosted service (SaaS), API, or backend infrastructure for public consumption.
-c) Redistribute, sub-license, or claim ownership of any derivative works based on this codebase.
-d) Remove or alter this license notice from any portion of the code.
+3. ABSOLUTE RESTRICTIONS
+Under no circumstances, without explicit, written, cryptographically verified consent from the Founder of Voxion Labs, are you permitted to:
+a) Exploit this software, its design patterns, or its underlying kernels for commercial, enterprise, or profit-generating operations.
+b) Deploy, mirror, or host this software as a public Service (SaaS), API endpoint, or backend infrastructure.
+c) Redistribute, sub-license, repackage, or claim intellectual ownership of any derivative works, modified UIs, or reverse-engineered architectures based on this ecosystem.
+d) Strip, obscure, or alter this Master License notice from any module, header, or associated documentation.
 
-4. CONTRIBUTIONS
-Any code, patches, or architectural modifications submitted to this repository via Pull Requests shall automatically transfer all intellectual property rights to Voxion Labs. 
+4. TRANSFER OF INTELLECTUAL PROPERTY
+By submitting any code, patches, architectural modifications, or telemetry data to this repository or any affiliated Voxion Labs repository, you automatically, irrevocably, and perpetually transfer all copyrights and intellectual property rights of that submission to Voxion Labs. 
 
-5. NO WARRANTY
-THIS SOFTWARE IS PROVIDED BY VOXION LABS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. VOXION LABS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE.
+5. ECOSYSTEM AUDIT & ENFORCEMENT
+Voxion Labs reserves the right to enforce strict intellectual property protection across its digital ecosystem. Unauthorized commercial exploitation, unauthorized public hosting, or direct codebase cloning constitutes a critical violation of this Master License and will trigger immediate legal action, including claims for compensatory damages and immediate injunctive relief.
+
+6. DISCLAIMER OF ALL WARRANTIES
+THE SOFTWARE, KERNELS, AND ARCHITECTURES ARE PROVIDED BY VOXION LABS STRICTLY "AS IS". ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, SECURITY FATALITY, AND FITNESS FOR A PARTICULAR PURPOSE, ARE ABSOLUTELY DISCLAIMED. IN NO EVENT SHALL VOXION LABS, ITS FOUNDERS, OR CONTRIBUTORS BE HELD LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE DEPLOYMENT OR USAGE OF THIS SOFTWARE.
 
 END OF TERMS AND CONDITIONS
