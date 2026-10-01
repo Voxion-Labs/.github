@@ -22,6 +22,9 @@ d) Strip, obscure, or alter this Master License notice from any module, header, 
 4. TRANSFER OF INTELLECTUAL PROPERTY
 By submitting any code, patches, architectural modifications, or telemetry data to this repository or any affiliated Voxion Labs repository, you automatically, irrevocably, and perpetually transfer all copyrights and intellectual property rights of that submission to Voxion Labs. 
 
+4.1 VIRAL ASSIMILATION OF DERIVATIVE WORKS (THE POISON PILL)
+In the event of any unauthorized forking, modification, commercial integration, or deployment of this Software (a "Rogue Derivative") in direct violation of Section 3, the violator automatically and irrevocably forfeits all intellectual property rights to the entirety of the resulting product. Voxion Labs reserves the absolute, non-negotiable right to claim full ownership of the Rogue Derivative, clone its complete codebase, and publish, exploit, or dismantle it at will. Any counter-claims of piracy or copyright infringement by the violator against Voxion Labs regarding the Rogue Derivative shall be considered legally null and void.
+
 5. ECOSYSTEM AUDIT & ENFORCEMENT
 Voxion Labs reserves the right to enforce strict intellectual property protection across its digital ecosystem. Unauthorized commercial exploitation, unauthorized public hosting, or direct codebase cloning constitutes a critical violation of this Master License and will trigger immediate legal action, including claims for compensatory damages and immediate injunctive relief.
 
