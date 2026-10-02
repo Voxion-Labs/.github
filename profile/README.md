@@ -254,8 +254,8 @@ By operating at the intersection of WebAssembly kernels, vector state synchroniz
 
 ## Operational Protocols & Governance
 
-* **Licensing & Architecture:** Foundational systems and non-classified VXR kernels are maintained under our custom institutional license. Refer to the [Voxion Labs Proprietary Research License (VL-PRL)](https://github.com/Voxion-Labs/.github/blob/main/LICENSE) for strict operational parameters.
-* **External Collaboration:** Voxion Labs enforces ruthless pull-request auditing. Independent developers must strictly adhere to our [Contribution Directives & Architectural Standards](https://github.com/Voxion-Labs/.github/blob/main/CONTRIBUTING.md) before initiating merge requests.
+* **Licensing & Architecture:** Foundational systems and non-classified VXR kernels are maintained under our custom institutional license. Refer to the [Voxion Labs Proprietary Research License (VL-PRL)](https://github.com/Voxion-Labs/.github?tab=License-1-ov-file) for strict operational parameters.
+* **External Collaboration:** Voxion Labs enforces ruthless pull-request auditing. Independent developers must strictly adhere to our [Contribution Directives & Architectural Standards](https://github.com/Voxion-Labs/.github?tab=contributing-ov-file) before initiating merge requests.
 * **Security & Vulnerability Disclosure:** For zero-day reports, prompt-injection bypasses, or critical vulnerabilities within VXR sandboxes, do not open public issues. Follow internal security disclosure protocols.
 
 ---
