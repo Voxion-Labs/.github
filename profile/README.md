@@ -18,9 +18,9 @@
 
 ## Overview
 
-Voxion Labs operates as an independent research and development facility strictly focused on the convergence of high-performance systems engineering and artificial intelligence. The organization is dedicated to eliminating cloud dependency bottlenecks by engineering deterministic architectures, zero-backend edge networks, and local-first AI sandboxes. 
+Voxion Labs is an independent research syndicate and repository hub focused on Machine Learning, Data Science, and stateful AI orchestration. The primary objective of this organization is to bypass conventional cloud dependencies by engineering zero-backend architectures, distributed state engines, and local-first AI sandboxes.
 
-By operating at the intersection of WebAssembly kernels, vector state synchronization, and low-latency C/C++ backplanes, Voxion Labs transitions theoretical computer science into production-grade, stateful infrastructures where software operations and machine intelligence models function under strict isolation protocols.
+Core development involves optimizing neural networks and data pipelines using Python, integrated securely with low-latency WASM kernels and bare-metal C/C++ backplanes. Repositories maintained under this organization operate on a strictly utilitarian thesis: translating theoretical computer science and machine intelligence models into production-grade infrastructure, executing under absolute isolation protocols and zero-overhead performance benchmarks.
 
 ---
 
@@ -254,7 +254,7 @@ By operating at the intersection of WebAssembly kernels, vector state synchroniz
 
 ## Operational Protocols & Governance
 
-* **Licensing & Architecture:** Foundational systems and non-classified VXR kernels are maintained under our custom institutional license. Refer to the [Voxion Labs Proprietary Research License (VL-PRL)](https://github.com/Voxion-Labs/.github/blob/main/CONTRIBUTING.md) for strict operational parameters.
+* **Licensing & Architecture:** Foundational systems and non-classified VXR kernels are maintained under our custom institutional license. Refer to the [Voxion Labs Proprietary Research License (VL-MPL)](https://github.com/Voxion-Labs/.github/blob/main/LICENSE) for strict operational parameters.
 * **External Collaboration:** Voxion Labs enforces ruthless pull-request auditing. Independent developers must strictly adhere to our [Contribution Directives & Architectural Standards](https://github.com/Voxion-Labs/.github/blob/main/CONTRIBUTING.md) before initiating merge requests.
 * **Security & Vulnerability Disclosure:** For zero-day reports, prompt-injection bypasses, or critical vulnerabilities within VXR sandboxes, do not open public issues. Follow internal security disclosure protocols.
 
