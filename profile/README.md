@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0000,50:330000,100:660000&height=160&section=header&text=Voxion%20Labs&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0000,50:330000,100:660000&height=160&section=header&text=VOXION%20LABS&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -11,10 +11,10 @@
   <img src="https://img.shields.io/badge/DETERMINISTIC%20SYSTEMS-2b0000?style=for-the-badge&logo=cplusplus&logoColor=ff4d4d" />
   <img src="https://img.shields.io/badge/WASM%20ARCHITECTURES-3b0000?style=for-the-badge&logo=webassembly&logoColor=ff6b6b" />
   <img src="https://img.shields.io/badge/AI%20ORCHESTRATION-4a0000?style=for-the-badge&logo=openai&logoColor=ff8787" />
-  <img src="https://img.shields.io/badge/CYBER--DEFENSE-5c0000?style=for-the-badge&logo=shield&logoColor=ffaaaa" />
+  <img src="https://img.shields.io/badge/BROWSER%20NATIVE-5c0000?style=for-the-badge&logo=shield&logoColor=ffaaaa" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:660000,100:0b0000&height=5&section=header" width="100%" />
+---
 
 ## Overview
 
@@ -83,172 +83,136 @@ Core development involves optimizing neural networks and data pipelines using Py
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=py" width="48" /><br/><sub><b>Python</b></sub></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" width="48" /><br/><sub><b>C++</b></sub></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="48" /><br/><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="48" /><br/><sub><b>TypeScript</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="48" /><br/><sub><b>React</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="48" /><br/><sub><b>Next.js</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br/><sub><b>Node.js</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="48" /><br/><sub><b>Docker</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br/><sub><b>TensorFlow</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="48" /><br/><sub><b>Git</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgresql" width="48" /><br/><sub><b>PostgreSQL</b></sub></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=wasm" width="48" /><br/><sub><b>WebAssembly</b></sub></td>
   </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="48" /><br/><sub><b>Docker</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="48" /><br/><sub><b>MySQL</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=go" width="48" /><br/><sub><b>Go</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="48" /><br/><sub><b>Git</b></sub></td>
+  </tr>
 </table>
+
+---
+
+
+## Network & Contact
+
+| Platform | Handle | Description |
+| :--- | :--- | :--- |
+|  LinkedIn | <a href="https://www.linkedin.com/company/voxionlabs/"><b>Voxion Labs</b></a> | For updates and announcements |
+|  Instagram | <a href="https://www.instagram.com/voxionlabs/"><b>@voxionlabs</b></a> | Research updates & behind-the-scenes |
+|  X | <a href="https://x.com/voxionlabs"><b>@voxionlabs</b></a> | Discovery and main frame |
+| Email | <a href="mailto:voxionlabs.inc@outlook.com"><b>voxionlabs.io</b></a> |  Lab & project communications |
 
 ---
 
 ## Systems & Ecosystem
 
-> *Production-grade environments and autonomous systems developed and maintained under Voxion Labs.*
+> *Production environments and autonomous systems developed and maintained under Voxion Labs.*
 
-### [VoidLAB](https://github.com/Voxion-Labs/VoidLAB)
-
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="38%">
-
-| Field | Details |
-| :--- | :--- |
-| **Type** | Cloud IDE |
-| **Status** | Active |
-| **Stack** | React, Next.js, Docker, wasm |
-
-  </td>
-  <td valign="top" width="62%">
-  A zero-latency, sandbox-isolated browser IDE for seamless cross-platform developer workflows. Features a multi-tab workspace, responsive file explorer, background compile threads via web workers, and multi-language execution capabilities.
-  </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://github.com/Voxion-Labs/VoidLAB">VoidLAB</a></b><br/>
+      <i>Zero Backend Browser Cloud IDE</i>
+      <hr/>
+      A sandbox-isolated browser IDE for seamless cross-platform developer workflows. Features a multi-tab workspace, responsive file explorer, background compile threads via web workers, and multi-language execution — all operable from any device without installation.
+      <br/><br/>
+      <b>Stack</b><br/>
+      Go · Wasm · Socket.io · Docker
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://github.com/Voxion-Labs/FluxKernel">FluxKernel</a></b><br/>
+      <i>Memory-Driven AI OS Agent</i>
+      <hr/>
+      A persistent, memory-driven AI agent that operates directly on local filesystems. Routes tasks between cloud LLMs and local models using self-correcting git-diff patches, with a semantic vector memory backplane that maintains full context continuity across sessions.
+      <br/><br/>
+      <b>Stack</b><br/>
+      Python · LangChain · Go
+      <br/><br/>
+    </td>
   </tr>
 </table>
 
----
+<br/>
 
-### [FluxKernel](https://github.com/Voxion-Labs/FluxKernel)
-
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="38%">
-
-| Field | Details |
-| :--- | :--- |
-| **Type** | AI Agent Kernel |
-| **Status** | Active |
-| **Stack** | Python, LangChain, Vector DB |
-
-  </td>
-  <td valign="top" width="62%">
-  A persistent, memory-driven AI agent that operates directly on local filesystems. Routes tasks between cloud LLMs and local models using self-correcting git-diff patches, maintaining context continuity via a semantic vector memory backplane.
-  </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://github.com/Voxion-Labs/YooMates">YooMates</a></b><br/>
+      <i>Unified Collaborative Workspace</i>
+      <hr/>
+      Unified collaboration platform that combines real-time team communication, a public social feed and a private knowledge and execution workspace.
+      <br/><br/>
+      <b>Stack</b><br/>
+      Go · Javascript · Socket.io
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://github.com/Voxion-Labs/LEXIO">LEXIO</a></b><br/>
+      <i>Text-To-Speech Engine</i>
+      <hr/>
+       A browser-native document narration and speech engineering workstation built with Go WebAssembly and web standards. Operates without remote server roundtrips, executing all document ingestion, phrase segmentation, speech synthesis directly on the browser
+      <br/><br/>
+      <b>Stack</b><br/>
+      Go · Web Speech API · Javascript
+      <br/><br/>
+    </td>
   </tr>
 </table>
 
----
+<br/>
 
-### [RedTerminal](https://github.com/Voxion-Labs/RedTerminal)
-
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="38%">
-
-| Field | Details |
-| :--- | :--- |
-| **Type** | Systems Simulator |
-| **Status** | Active |
-| **Stack** | C11, POSIX Threads, Vanilla JS |
-
-  </td>
-  <td valign="top" width="62%">
-  A lightweight systems-level C project demonstrating OS fundamentals: process lifecycle management, CPU scheduling via POSIX threads, thread-safe async logging, and a glassmorphism browser terminal emulator UI operating with zero external dependencies.
-  </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://github.com/Voxion-labs/SkillNODE">SkillNODE</a></b><br/>
+      <i>Social Skill Acquisition Platform</i>
+      <hr/>
+      A full-stack monorepo web application for structured cognitive and technical skill training. It consolidates multi-domain practice environments, persistent user identity, challenge-based execution, AI coaching, fair-play monitoring, and real-time multiplayer into a single cohesive platform.
+      <br/><br/>
+      <b>Stack</b><br/>
+      Node.js · Socket.io · React 
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://github.com/Voxion-Labs/RedTerminal">RedTerminal</a></b><br/>
+      <i>C-Based OS Process Simulator</i>
+      <hr/>
+      A workstation operating directly in the browser and as a toggleable Manifest V3 overlay extension for security analysis, data crunching, and WebAssembly execution.
+      <br/><br/>
+      <b>Stack</b><br/>
+      C11 · POSIX Threads · Go · Wasm
+      <br/><br/>
+    </td>
   </tr>
 </table>
 
----
+<br/>
 
-### [YooMates](https://github.com/Voxion-Labs/YooMates)
-
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="38%">
-
-| Field | Details |
-| :--- | :--- |
-| **Type** | Collaboration Platform |
-| **Status** | Active |
-| **Stack** | TypeScript, Next.js, Socket.io |
-
-  </td>
-  <td valign="top" width="62%">
-  A high-performance multi-user workspace with real-time state streaming, shared file trees, and concurrent terminal feeds. Optimized diff payloads and WebSocket frames keep synchronization latency strictly under 15ms across all live sessions.
-  </td>
+    <td colspan="2" valign="top">
+      <br/>
+      <b><a href="https://github.com/Voxion-Labs/Aabhas">Aabhas</a></b><br/>
+      <i>Shadow Memory Grid & Tensor Streaming Engine</i>
+      <hr/>
+       A memory allocator and out-of-core tensor streaming engine designed for large language model inference. It utilizes a C++/Rust core to bypass standard OS page-table overhead, enabling direct NVMe-to-CPU layer drops enforcing strict memory caps and adaptive I/O scheduling to maintain host OS stability while executing massive parameter models.
+      <br/><br/>
+      <b>Stack</b><br/>
+      Go · Rust · C++ · Docker
+      <br/><br/>
+    </td>
   </tr>
 </table>
-
----
-
-### [LEXIO](https://github.com/Voxion-Labs/LEXIO)
-
-<table>
-  <tr>
-    <td valign="top" width="38%">
-
-| Field | Details |
-| :--- | :--- |
-| **Type** | TTS Web Engine |
-| **Status** | Active |
-| **Stack** | JavaScript, Web Speech API |
-
-  </td>
-  <td valign="top" width="62%">
-  A real-time Text-To-Speech engine executing dynamic voice modulation, regional accent selection, and real-time sentence highlighting. Handles multi-format documents with low-latency segment parsing for seamless audio streaming.
-  </td>
-  </tr>
-</table>
-
----
-
-### [Empty_Pointer](https://github.com/Voxion-Labs/Empty_Pointer)
-
-<table>
-  <tr>
-    <td valign="top" width="38%">
-
-| Field | Details |
-| :--- | :--- |
-| **Type** | Native Wasm Game |
-| **Status** | Active |
-| **Stack** | C++, Raylib, WebAssembly |
-
-  </td>
-  <td valign="top" width="62%">
-  A grid-based action-survival executable built natively in C++ with the Raylib framework. Navigate system grids to evade Red-Code algorithms. Compiled directly to WebAssembly for zero-install, browser-native execution.
-  </td>
-  </tr>
-</table>
-
----
-
-### [SkillNODE](https://github.com/Voxion-Labs/SkillNODE)
-
-<table>
-  <tr>
-    <td valign="top" width="38%">
-
-| Field | Details |
-| :--- | :--- |
-| **Type** | Skill-Dev Platform |
-| **Status** | Active |
-| **Stack** | Node.js, React, MongoDB |
-
-  </td>
-  <td valign="top" width="62%">
-  A multi-page interactive platform running live coding rooms and AI-guided study tracks. Implements real-time multiplayer arenas where developers resolve complex algorithm challenges within shared collaborative environments.
-  </td>
-  </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0000,100:660000&height=5&section=header" width="100%" />
 
 ---
 
@@ -257,6 +221,40 @@ Core development involves optimizing neural networks and data pipelines using Py
 * **Licensing & Architecture:** Foundational systems and non-classified VXR kernels are maintained under our custom institutional license. Refer to the [Voxion Labs Proprietary Research License (VL-MPL)](https://github.com/Voxion-Labs/.github/blob/main/LICENSE) for strict operational parameters.
 * **External Collaboration:** Voxion Labs enforces ruthless pull-request auditing. Independent developers must strictly adhere to our [Contribution Directives & Architectural Standards](https://github.com/Voxion-Labs/.github/blob/main/CONTRIBUTING.md) before initiating merge requests.
 * **Security & Vulnerability Disclosure:** For zero-day reports, prompt-injection bypasses, or critical vulnerabilities within VXR sandboxes, do not open public issues. Follow internal security disclosure protocols.
+
+---
+
+<h2 align="center">OUR APPROACH</h2>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <b>Build</b>
+      <br/><br/>
+      Construct bare-metal systems and resilient infrastructure.
+      <br/><br/>
+    </td>
+    <td width="34%" align="center" valign="top">
+      <br/>
+      <b>Break</b>
+      <br/><br/>
+      Stress-test architectures to expose limits and vulnerabilities.
+      <br/><br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <b>Optimize</b>
+      <br/><br/>
+      Analyze execution telemetry to eliminate computational overhead.
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>Build → Break → Analyze → Optimize</b>
+</p>
 
 ---
 
@@ -281,5 +279,5 @@ The computing paradigm is shifting from passive applications to autonomous, self
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:660000,50:330000,100:0b0000&height=120&section=footer&text=Engineering%20Intelligent%20Systems&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:660000,50:330000,100:0b0000&height=120&section=footer&text=Thank%20You&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 </p>
