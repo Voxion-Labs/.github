@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0000,50:330000,100:660000&height=160&section=header&text=VOXION%20LABS&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0000,50:330000,100:660000&height=160&section=header&text=Voxion%20Labs&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ Core development involves optimizing neural networks and data pipelines using Py
     <td width="48%" valign="top">
       <h4><a href="https://github.com/Voxion-Labs/Aegis-IR">Aegis-IR</a></h4>
       <b>Deterministic Memory for Browser-Native Search</b><br/><br/>
-      Isolates the ranking kernel inside WebAssembly linear memory. Bypasses V8 garbage-collection to eliminate main-thread stutter. Recorded at 0.000 ms thread blocking with a GC-neutral 3.2 KB linear memory allocation.
+      Isolates the ranking kernel inside WebAssembly linear memory. Bypasses V8 garbage-collection to eliminate main-thread stutter. Recorded at low thread blocking with a GC-neutral 3.2 KB linear memory allocation.
       <br/><br/>
       <code>C++</code> &nbsp; <code>WebAssembly</code> &nbsp; <code>Zero-GC</code>
     </td>
@@ -51,7 +51,7 @@ Core development involves optimizing neural networks and data pipelines using Py
     <td width="48%" valign="top">
       <h4><a href="https://github.com/Voxion-Labs/VXR-Continuum">VXR-Continuum</a></h4>
       <b>Distributed P2P Edge State Synchronization</b><br/><br/>
-      Client-side engine demonstrating state synchronization across edge networks. Employs CRDT algorithmic conflict resolution. Benchmarked at 0.22 ms sync latency and 0.00% vector drift across P2P logical timestamps.
+      Client-side engine demonstrating state synchronization across edge networks. Employs CRDT algorithmic conflict resolution. Benchmarked at 0.22 ms sync latency and lowest vector drift across P2P logical timestamps.
       <br/><br/>
       <code>Python</code> &nbsp; <code>CRDT</code> &nbsp; <code>P2P Telemetry</code>
     </td>
@@ -82,7 +82,7 @@ Core development involves optimizing neural networks and data pipelines using Py
   <tr>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=py" width="48" /><br/><sub><b>Python</b></sub></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" width="48" /><br/><sub><b>C++</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="48" /><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=c" width="48" /><br/><sub><b>C</b></sub></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=wasm" width="48" /><br/><sub><b>WebAssembly</b></sub></td>
   </tr>
   <tr>
@@ -103,7 +103,8 @@ Core development involves optimizing neural networks and data pipelines using Py
 |  LinkedIn | <a href="https://www.linkedin.com/company/voxionlabs/"><b>Voxion Labs</b></a> | For updates and announcements |
 |  Instagram | <a href="https://www.instagram.com/voxionlabs/"><b>@voxionlabs</b></a> | Research updates & behind-the-scenes |
 |  X | <a href="https://x.com/voxionlabs"><b>@voxionlabs</b></a> | Discovery and main frame |
-| Email | <a href="mailto:voxionlabs.inc@outlook.com"><b>voxionlabs.io</b></a> |  Lab & project communications |
+| Email | <a href="mailto:voxionlabs.inc@outlook.com"><b>voxionlabs</b></a> |  Lab & project communications |
+| Founder | <a href="https://github.com/R-Jena"><b>R-Jena</b></a> | Founder's GitHub |
 
 ---
 
@@ -132,7 +133,7 @@ Core development involves optimizing neural networks and data pipelines using Py
       A persistent, memory-driven AI agent that operates directly on local filesystems. Routes tasks between cloud LLMs and local models using self-correcting git-diff patches, with a semantic vector memory backplane that maintains full context continuity across sessions.
       <br/><br/>
       <b>Stack</b><br/>
-      Python · LangChain · Go
+      Python · LangChain · Go · Docker
       <br/><br/>
     </td>
   </tr>
@@ -150,7 +151,7 @@ Core development involves optimizing neural networks and data pipelines using Py
       Unified collaboration platform that combines real-time team communication, a public social feed and a private knowledge and execution workspace.
       <br/><br/>
       <b>Stack</b><br/>
-      Go · Javascript · Socket.io
+      Go · Socket.io · Typescript · Wasm
       <br/><br/>
     </td>
     <td width="50%" valign="top">
@@ -161,7 +162,7 @@ Core development involves optimizing neural networks and data pipelines using Py
        A browser-native document narration and speech engineering workstation built with Go WebAssembly and web standards. Operates without remote server roundtrips, executing all document ingestion, phrase segmentation, speech synthesis directly on the browser
       <br/><br/>
       <b>Stack</b><br/>
-      Go · Web Speech API · Javascript
+      Go · Web Speech API · Wasm
       <br/><br/>
     </td>
   </tr>
@@ -179,7 +180,7 @@ Core development involves optimizing neural networks and data pipelines using Py
       A full-stack monorepo web application for structured cognitive and technical skill training. It consolidates multi-domain practice environments, persistent user identity, challenge-based execution, AI coaching, fair-play monitoring, and real-time multiplayer into a single cohesive platform.
       <br/><br/>
       <b>Stack</b><br/>
-      Node.js · Socket.io · React 
+      Wasm · Go · Docker 
       <br/><br/>
     </td>
     <td width="50%" valign="top">
@@ -190,7 +191,7 @@ Core development involves optimizing neural networks and data pipelines using Py
       A workstation operating directly in the browser and as a toggleable Manifest V3 overlay extension for security analysis, data crunching, and WebAssembly execution.
       <br/><br/>
       <b>Stack</b><br/>
-      C11 · POSIX Threads · Go · Wasm
+      C · POSIX Threads · Go · Wasm
       <br/><br/>
     </td>
   </tr>
@@ -273,7 +274,7 @@ The computing paradigm is shifting from passive applications to autonomous, self
 <br/>
 <p align="center">
   <i>Architecture & Infrastructure maintained by</i><br>
-  <b><a href="https://github.com/liambrooks-lab">Rudranarayan Jena</a></b><br>
+  <b><a href="https://github.com/R-Jena">Rudranarayan Jena</a></b><br>
   <sub>Founder of Voxion Labs</sub>
 </p>
 <br/>
