@@ -59,15 +59,15 @@ Core development involves optimizing neural networks and data pipelines using Py
   <tr><td colspan="3"><br/></td></tr>
   <tr>
     <td width="48%" valign="top">
-      <img src="https://github.com/Voxion-Labs/.github/raw/main/assets/vxr_sandbox_preview.png" alt="VXR-Sandbox Preview" width="100%" />
+      <img src="https://github.com/Voxion-Labs/.github/raw/main/assets/vxr_thesis_preview.png" alt="VXR-Thesis Preview" width="100%" />
     </td>
     <td width="4%"></td>
     <td width="48%" valign="top">
-      <h4><a href="https://github.com/Voxion-Labs/VXR-Sandbox">VXR-Sandbox</a></h4>
-      <b>Cyber-Defense Dashboard · Zero-Backend Defense</b><br/><br/>
-      Browser-native deterministic sandboxing kernel for detecting LLM prompt injections. Threat assessment executes strictly on-device via the Wasm kernel, preventing data ingress from exiting the local environment.
+      <h4><a href="https://github.com/Voxion-Labs/VXR-Thesis">VXR-Thesis</a></h4>
+      <b>Custom Memory Allocation · WebAssembly Workloads in Constrained Edge Environments</b><br/><br/>
+      A high-integrity, edge-native systems research framework demonstrating deterministic O(1) slab allocation, monotonic arena bounding, and direct linear memory ring buffering to eliminate boundary serialization penalties on 512MB RAM edge instances.
       <br/><br/>
-      <code>WebAssembly</code> &nbsp; <code>Cyber-Defense</code> &nbsp; <code>Local-Only</code>
+      <code>WebAssembly</code> &nbsp; <code>Custom Memory Allocation</code> &nbsp; <code>Local-Only</code>
     </td>
   </tr>
 </table>
@@ -174,13 +174,13 @@ Core development involves optimizing neural networks and data pipelines using Py
   <tr>
     <td width="50%" valign="top">
       <br/>
-      <b><a href="https://github.com/Voxion-labs/SkillNODE">SkillNODE</a></b><br/>
-      <i>Social Skill Acquisition Platform</i>
+      <b><a href="https://github.com/Voxion-labs/Aabhas">Aabhas</a></b><br/>
+      <i>Shadow Menory Allocator</i>
       <hr/>
-      A full-stack monorepo web application for structured cognitive and technical skill training. It consolidates multi-domain practice environments, persistent user identity, challenge-based execution, AI coaching, fair-play monitoring, and real-time multiplayer into a single cohesive platform.
+      A memory allocator and out-of-core tensor streaming engine designed for large language model inference. It utilizes a C++/Rust core to bypass standard OS page-table overhead, enabling direct NVMe-to-CPU layer drops enforcing strict memory caps and adaptive I/O scheduling to maintain host OS stability while executing massive parameter models.
       <br/><br/>
       <b>Stack</b><br/>
-      Wasm · Go · Docker 
+      C++ · Go · Docker  · Rust
       <br/><br/>
     </td>
     <td width="50%" valign="top">
@@ -197,23 +197,6 @@ Core development involves optimizing neural networks and data pipelines using Py
   </tr>
 </table>
 
-<br/>
-
-<table width="100%">
-  <tr>
-    <td colspan="2" valign="top">
-      <br/>
-      <b><a href="https://github.com/Voxion-Labs/Aabhas">Aabhas</a></b><br/>
-      <i>Shadow Memory Grid & Tensor Streaming Engine</i>
-      <hr/>
-       A memory allocator and out-of-core tensor streaming engine designed for large language model inference. It utilizes a C++/Rust core to bypass standard OS page-table overhead, enabling direct NVMe-to-CPU layer drops enforcing strict memory caps and adaptive I/O scheduling to maintain host OS stability while executing massive parameter models.
-      <br/><br/>
-      <b>Stack</b><br/>
-      Go · Rust · C++ · Docker
-      <br/><br/>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -280,5 +263,5 @@ The computing paradigm is shifting from passive applications to autonomous, self
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:660000,50:330000,100:0b0000&height=120&section=footer&text=Thank%20You&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:660000,50:330000,100:0b0000&height=120&section=footer&text=Dhanyavad!&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 </p>
